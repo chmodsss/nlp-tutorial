@@ -1,11 +1,11 @@
-Tutorial on "Introduction to NLP" for the Machine learning WAW 6.
+# Tutorial: Introduction to NLP for the Machine Learning WAW 6
 
-The Tutorial will give you a basic introduction to Natural language processing: pre-processing the text, representation (vectorization of words), Training a ML model on text data.
+The Tutorial will give you a basic introduction to Natural Language Processing. Diskussed topics are: pre-processing the text, different representations as vectorization of words, training a ML model on text data.
 
-The code is written in python. It is preferrable to use python3.6, Since the library dependencies has been verified with v3.6.
+The code is written in python. It is preferrable to use python3.6, since the library dependencies have been verified with v3.6.
 Other higher versions also should work fine.
 
-It is highly recommended to use `virtualenv` for installing packages, as it wont disturb your existing package versions.
+It is highly recommended to use `virtualenv` for installing packages, as it won't disturb your existing package versions.
 You could also try `conda`, if you are comfortable with it.
 
 ### Installation instructions:
