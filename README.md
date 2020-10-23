@@ -16,7 +16,7 @@ You could also try `conda`, if you are comfortable with it.
 
 3. Check `virtualenv -v`. If the package is not installed, execute `pip install virtualenv`
 
-4. Create a virtual environment. `virtualenv -p python env36`
+4. Create a virtual environment. `virtualenv -p python env36` (Make sure python points to python3 not python2)
 
 5. Activate the environment. `env36\Scripts\activate`
 
@@ -28,4 +28,4 @@ You could also try `conda`, if you are comfortable with it.
 
 9. After installation, execute `jupyter notebook`
 
-10. Now the notebooks are up and running in your browser at `localhost:8888`s
+10. Now the notebooks are up and running in your browser at `localhost:8888`
