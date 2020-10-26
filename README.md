@@ -29,3 +29,15 @@ You could also try `conda`, if you are comfortable with it.
 9. After installation, execute `jupyter notebook`
 
 10. Now the notebooks are up and running in your browser at `localhost:8888`
+
+
+#### NLTK packages
+NLTK library needs some pre-built models to be to loaded to execute certain functions
+
+Open a python interpreter and execute the following commands.
+
+`> import nltk`
+
+`> nltk.download('punkt')`
+
+`> nltk.download('wordnet')`
