@@ -41,3 +41,16 @@ Open a python interpreter and execute the following commands.
 `> nltk.download('punkt')`
 
 `> nltk.download('wordnet')`
+
+
+#### Agenda
+
+9:30 - 10:30 : Part I (Pre-processing of text)
+
+10:30 - 10:45: Break
+
+10:45 - 11:45: Part II (Sentiment analysis)
+
+11:45 - 12:00: Break
+
+12:00 - 12:30: Part III + Q & A
