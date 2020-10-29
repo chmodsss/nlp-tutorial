@@ -20,9 +20,9 @@ You could also try `conda`, if you are comfortable with it.
 
 5. Activate the environment. `env36\Scripts\activate`
 
-6. Clone this repository. `git clone https://gitlab.dlr.de/sc/ivs-open/waw-ml6-nlptutorial.git`
+6. Clone this repository. `git clone https://github.com/chmodsss/nlp-tutorial`
 
-7. Enter the folder. `cd waw-ml6-nlptutorial`
+7. Enter the folder. `cd nlp-tutorial`
 
 8. Install the requirements. `pip install -r requirements.txt`
 
