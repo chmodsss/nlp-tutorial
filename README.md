@@ -1,4 +1,4 @@
-# Tutorial: Introduction to NLP for the Machine Learning WAW 6
+# Tutorial: Introduction to NLP with Python
 
 The Tutorial will give you a basic introduction to Natural Language Processing. Diskussed topics are: pre-processing the text, different representations as vectorization of words, training a ML model on text data.
 
@@ -41,16 +41,3 @@ Open a python interpreter and execute the following commands.
 `> nltk.download('punkt')`
 
 `> nltk.download('wordnet')`
-
-
-#### Agenda
-
-9:30 - 10:30 : Part I (Pre-processing of text)
-
-10:30 - 10:45: Break
-
-10:45 - 11:45: Part II (Sentiment analysis)
-
-11:45 - 12:00: Break
-
-12:00 - 12:30: Part III + Q & A
