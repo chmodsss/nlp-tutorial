@@ -6,4 +6,4 @@ tensorflow==2.11.1
 nltk==3.9.4
 jupyter_core==4.6.1
 jupyter==1.0.0
-scikit_learn==0.23.2
+scikit_learn==1.5.0
